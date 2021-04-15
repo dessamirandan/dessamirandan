@@ -1,4 +1,4 @@
-dessamirandan# Prazer, Andressa 👋
+# Prazer, Andressa 👋
 
 Hi! Eu sou Andressa Miranda, bióloga 🌱 e desevolvedora web 👩🏽‍💻. Entrei para o mundo da programação depois de conhecer a **bioinformática** e tudo que a programação trouxe de benefícios para o dia-a-dia do geneticista.
 
