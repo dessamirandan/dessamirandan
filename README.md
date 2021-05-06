@@ -1,6 +1,6 @@
 # Prazer, Andressa 👋
 
-Hi! Eu sou Andressa Miranda, bióloga 🌱, Ténica em Informática e programadora web em formação 👩🏽‍💻. 
+Hi! Eu sou Andressa Miranda, bióloga 🌱, Ténica em Informática e programadora web em formação 👩🏽‍💻. Possuo cursos na área de Web Desiger, Worpress como CMS, Javascript ES6 completo e Programação WEB.
 
 # ⚡ Habilidades ⚡
  - [x] HTML5
