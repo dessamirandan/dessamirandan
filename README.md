@@ -6,12 +6,15 @@ Hi! Eu sou Andressa Miranda, bióloga 🌱, Ténica em Informática e programado
  - [x] HTML5
  - [x] CSS3
  - [x] Javascript Básico
+ - [ ] Phyton Básico
+ - [ ] ArcgGs e ArcGis Online
+ - [ ] Power Bi Básico
 
  # ✨ Interesses ✨
  - [ ] JavaScript Avançado (em curso)
- - [ ] PHP
- - [ ] React
- - [ ] Node.js
+ - [ ] Phyton
+ - [ ] Análise de Dados
+ - [ ] Power BI
 
 
 # 📫 Não deixe de entrar em contato comigo 📫 :
