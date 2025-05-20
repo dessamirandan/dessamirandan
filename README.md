@@ -1,20 +1,15 @@
 # Prazer, Andressa 👋
 
-Hi! Eu sou Andressa Miranda, bióloga 🌱, Ténica em Informática e programadora web em formação 👩🏽‍💻. Possuo cursos na área de Web Designer, Worpress como CMS, Javascript ES6 completo e Programação WEB.
+Hi! Eu sou Andressa Miranda, bióloga 🌱, Ténica em Informática e programadora FullStack em formação 👩🏽‍💻. 
 
 # ⚡ Habilidades ⚡
  - [x] HTML5
  - [x] CSS3
  - [x] Javascript Básico
- - [ ] Phyton Básico
- - [ ] ArcGis e ArcGis Online
- - [ ] Power Bi Básico
 
  # ✨ Interesses ✨
  - [ ] JavaScript Avançado (em curso)
- - [ ] Phyton
- - [ ] Análise de Dados
- - [ ] Power BI
+ - [ ] Java
 
 
 # 📫 Não deixe de entrar em contato comigo 📫 :
