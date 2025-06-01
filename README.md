@@ -69,7 +69,7 @@
 
 ###
 
-<h3 align="left">📍 Localização</h3>
+<h3 align="left">Localização</h3>
 
 ###
 
