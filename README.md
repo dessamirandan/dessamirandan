@@ -1,5 +1,6 @@
 <h2 align="left">Hi 👋! My name is Andressa and I'm a student Bachelor's degree in Information Systems from PUC Minas</h2>
 
+
 ###
 
 <p align="left">Bióloga e Técnica em Informática de formação e programadora FullStack em formação. Atualmente, estou matriculada em Sistemas de informação na PUC Minas, buscando minha transição de carreira para a área de tecnologia, com foco em desenvolvimento backend e WebGIS.</p>
@@ -71,6 +72,8 @@
   </a>
 </div>
 
+#Visão Geral
+
 ###
 
 <div align="center">
@@ -78,14 +81,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dessamirandan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-###
-
-<h3 align="left">📍 Localização</h3>
 
 ###
 
-<p align="left">Belo Horizonte, MG</p>
+<h3 align="center">📍 Localização</h3>
+
+###
+
+<p align="center">Belo Horizonte, MG</p>
 
 ###
 
