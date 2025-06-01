@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Bióloga e Técnica em Informática de formação e programadora FullStack em formação. Atualmente, estou matriculada em Sistemas de informação na PUC Minas, buscando minha transição de carreira para a área de tecnologia, com foco em desenvolvimento backend e WebGIS.</p>
+<p align="left">Bióloga, Técnica em Informática de formação e Desenvolvedora FullStack em formação. Atualmente, estou matriculada em Sistemas de informação na PUC Minas, buscando minha transição de carreira para a área de tecnologia, com foco em desenvolvimento backend e WebGIS.</p>
 
 ###
 
