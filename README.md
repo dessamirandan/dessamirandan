@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Andressa and I'm a student Bachelor's degree Information Systems in PUC Minas</h2>
+<h2 align="left">Hi 👋! My name is Andressa, and I am an Information Systems Bachelor's degree student at PUC Minas.</h2>
 
 
 ###
